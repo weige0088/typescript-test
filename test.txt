@@ -1,5 +1,8 @@
 abc
+<<<<<<< HEAD
 aaaaaaaaa
 bbbbbbbbb
 ccccccccc
 ddddddddd
+typeScript test
+
